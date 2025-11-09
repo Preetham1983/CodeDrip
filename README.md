@@ -237,7 +237,11 @@ npm run build
 | **Smaran**               | Research & Integration Engineer  | Focused on AI model integration, repo analytics workflows, and performance optimization.                           |
 
 📍 **Location:** Hyderabad, India
+
+----
 🎓 **Institution:** Keshav Memorial College of Engineering
+
+----
 💡 **Team Focus:** AWS Services , Cloud , Artificial Intelligence , and Full-Stack Development
 
 
