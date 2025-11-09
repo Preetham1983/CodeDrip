@@ -3,6 +3,8 @@
 # <img width="30" height="30" alt="img" src="https://github.com/user-attachments/assets/f97c1444-b41e-4f96-82a9-d4eb1b90f18a"/> CodeDrip
 
 ###  Track 2 — AI-Powered Repository Analysis
+🌐 **Live Demo:** [Click Here to Explore CodeDrip](https://staging.d1jk1modta7lxp.amplifyapp.com/)  
+
 
 ---
 
