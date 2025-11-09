@@ -118,6 +118,7 @@ pip install -r requirements.txt
 ```env
 MONGODB_URI=your_mongodb_atlas_connection_string
 GEMINI_API_KEY=your_gemini_api_key
+GITHUB_TOKEN=Git_Hub_Token_Key
 ```
 
 #### Run locally:
