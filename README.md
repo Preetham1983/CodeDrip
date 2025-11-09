@@ -1,25 +1,25 @@
 ---
 
-# 🚀 CodeDrip
+# CodeDrip
 
-### 🧩 Track 2 — AI-Powered Repository Analysis
+###  Track 2 — AI-Powered Repository Analysis
 
 ---
 
-## 📘 **Overview**
+##  **Overview**
 
 The **Codebase & Repository Explorer Agent** is an AI-driven tool that helps engineering teams understand and analyze large GitHub repositories.
 It automatically explores repositories, summarizes dependencies, analyzes project activity, and provides actionable insights about code health and structure.
 
 ---
 
-## 🎯 **Problem & Solution**
+##  **Problem & Solution**
 
 > In large organizations, managing and understanding complex codebases is a daily struggle. Developers spend hours navigating massive repositories, tracking dependencies, and identifying technical debt — often without clear visibility into overall code health. Our project, CodeDrip, solves this by acting as an AI-powered assistant that analyzes repositories, summarizes dependencies, detects issues, and provides actionable insights in seconds.
 
 ---
 
-## 🧠 **Objectives**
+##  **Objectives**
 
 * Explore and analyze organization codebases.
 * Detect dependencies, commits, and contribution trends.
@@ -58,7 +58,7 @@ repo-explorer/
 
 ---
 
-## 🧩 **Tech Stack**
+##  **Tech Stack**
 
 ### 🖥️ Frontend
 
@@ -77,7 +77,7 @@ repo-explorer/
 
 ---
 
-## 🧾 **Features**
+##  **Features**
 
 ✅ Analyze GitHub repositories by simply pasting a repo URL
 
@@ -95,7 +95,7 @@ repo-explorer/
 
 ---
 
-## 🧰 **Setup & Installation**
+##  **Setup & Installation**
 
 ### 1️⃣ Clone the Repository
 
@@ -169,7 +169,7 @@ npm run build
 
 ---
 
-## 🧠 **Example Workflow**
+##  **Example Workflow**
 
 1. User enters a **GitHub repository URL** in the web interface.
 2. Backend fetches repository data and runs analysis via **Gemini 2.5 Flash**.
@@ -177,14 +177,14 @@ npm run build
 4. Insights and metrics are stored in **MongoDB Atlas**.
 5. Frontend displays:
 
-   * 📦 Repo Details
-   * 📊 Commits & Contributors
-   * 💡 Key Insights
-   * 🤖 Q&A Interaction with the repository
+   *  Repo Details
+   *  Commits & Contributors
+   *  Key Insights
+   *  Q&A Interaction with the repository
 
 ---
 
-## 📸 **Screens & Components**
+##  **Screens & Components**
 
 * **Home Page** → Displays repo exploration UI
 <img width="1875" height="879" alt="Screenshot 2025-11-09 235513" src="https://github.com/user-attachments/assets/19e603a0-09c1-43a1-8bdf-b364e7ac37ae" />
@@ -229,7 +229,7 @@ npm run build
 
 ---
 
-## 🏁 **Conclusion**
+##  **Conclusion**
 
 This project demonstrates how **AI and software engineering** can work together to simplify repository exploration.
 By integrating **Gemini 2.5 Flash**, **MongoDB Atlas**, and **React**, this solution empowers developers to **analyze and interact with codebases intelligently**.
