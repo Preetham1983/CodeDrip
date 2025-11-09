@@ -27,7 +27,8 @@ It automatically explores repositories, summarizes dependencies, analyzes projec
 * Detect dependencies, commits, and contribution trends.
 * Generate and store actionable repository insights.
 * Allow users to ask natural language questions about the repository.
-
+* Analysing the repository health
+  
 ---
 
 ## ⚙️ **Folder Structure**
