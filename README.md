@@ -13,9 +13,9 @@ It automatically explores repositories, summarizes dependencies, analyzes projec
 
 ---
 
-## 🎯 **Use Case**
+## 🎯 **Problem & Solution**
 
-> Assists engineering teams in understanding large code repositories by summarizing dependencies, activity, and repository health.
+> In large organizations, managing and understanding complex codebases is a daily struggle. Developers spend hours navigating massive repositories, tracking dependencies, and identifying technical debt — often without clear visibility into overall code health. Our project, CodeDrip, solves this by acting as an AI-powered assistant that analyzes repositories, summarizes dependencies, detects issues, and provides actionable insights in seconds.
 
 ---
 
