@@ -28,7 +28,7 @@ It automatically explores repositories, summarizes dependencies, analyzes projec
 
 ---
 
-## ⚙️ **Architecture**
+## ⚙️ **Folder Structure**
 
 ```
 repo-explorer/
