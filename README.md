@@ -100,8 +100,7 @@ repo-explorer/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/repo-explorer.git
-cd repo-explorer
+git clone https://github.com/Preetham1983/CodeDrip
 ```
 
 ---
@@ -149,7 +148,7 @@ Include a `vercel.json` file in your backend:
 ### 3️⃣ Frontend Setup
 
 ```bash
-cd frontend
+cd my-app
 npm install
 npm start 
 npm i ajv # if npm start fails
