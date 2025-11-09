@@ -3,7 +3,7 @@ import { useParams, Link } from "react-router-dom";
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://flaskapp-cyan.vercel.app/api",
+  baseURL: "YOUR-BACKEND-DEPLOY-URL/api",
 });
 
 
@@ -250,5 +250,6 @@ const styles = {
   }
   // --- End New Styles ---
 };
+
 
 export default QAPage;
