@@ -1,6 +1,6 @@
 ---
 
-# <img width="25" height="25" alt="img" src="https://github.com/user-attachments/assets/448d17f0-fcbf-4956-a401-034e7576f7cb" /> CodeDrip
+# ![codedrip](https://github.com/user-attachments/assets/960e0306-1c85-422e-afb1-7c94a451c9a7) CodeDrip
 
 ###  Track 2 — AI-Powered Repository Analysis
 
