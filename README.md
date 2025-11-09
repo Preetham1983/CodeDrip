@@ -191,17 +191,24 @@ npm run build
   
 <img width="1883" height="904" alt="Screenshot 2025-11-10 003056" src="https://github.com/user-attachments/assets/0cd22076-ec6b-4e6e-a3a4-8accf379cba9" />
 
+----
 * **Analyze Page** → Paste repo URL & analyze
   
 <img width="1890" height="790" alt="Screenshot 2025-11-09 235944" src="https://github.com/user-attachments/assets/dbee09d5-f7b2-410a-92c9-7782239a3aea" />
+
+----
 
 * **Repo Details Page** → Shows repo metadata, commits, and contributors
   
 <img width="1876" height="907" alt="Screenshot 2025-11-09 235927" src="https://github.com/user-attachments/assets/d6d7e1bb-80f3-40e0-9400-fdeeedcb0c8f" />
 
+----
+
 * **QA Page** → Ask repository-related AI questions
   
 <img width="1888" height="891" alt="Screenshot 2025-11-09 235937" src="https://github.com/user-attachments/assets/04ae79cb-a9df-46c9-9529-c37614361432" />
+
+----
 
 * **Navbar & RepoCard Components** → Reusable and responsive
 
