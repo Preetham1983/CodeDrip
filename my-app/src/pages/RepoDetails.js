@@ -10,7 +10,7 @@ const RepoDetails = () => {
 
   useEffect(() => {
     axios
-      .get(`https://flaskapp-cyan.vercel.app/api/repos/${id}`)
+      .get(`YOUR-BACKEND-DEPLOY-URL/api/repos/${id}`)
       .then((res) => {
         setRepo(res.data);
         setLoading(false);
@@ -558,5 +558,6 @@ const styles = {
     color: "#666",
   },
 };
+
 
 export default RepoDetails;
